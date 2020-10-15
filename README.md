@@ -7,3 +7,12 @@ Make sure you have the Pygame package installed, that should be all you need. Pl
 
 
 open Mazecraft.py in Python and run it
+
+In game controls:
+WSAD or Up, Down, Left, Right to move
+Hold shift to go fast! < - Important
+
+Hopefully the editor is easy enough to figure out.
+
+Keys with the same index/color as a door will open the corresponding door.
+Portals begins and ends of the same index/color will teleport you between them upon standing on them
