@@ -76,7 +76,7 @@ BGCOLOR = WHITE
 MENUBGCOLOR = WHITE
 
 
-currentMusic = pygame.mixer.music.load(gridPlayer.sfxDir+'music1.wav')
+currentMusic = pygame.mixer.music.load(gridPlayer.sfxDir+'music1.mp2')
 inGameMusic = pygame.mixer.music.load(gridPlayer.sfxDir+'mainmenu.wav')
 
 musicVolume = 100
