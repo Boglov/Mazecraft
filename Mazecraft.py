@@ -102,7 +102,7 @@ def FitWindowToMap(nMap, includeUI=True):
         SetWindowSize(nMap.mapWidth, nMap.mapHeight)
 
 def PlayMenuMusic():
-    currentMusic = pygame.mixer.music.load(gridPlayer.sfxDir+'music1.wav')
+    currentMusic = pygame.mixer.music.load(gridPlayer.sfxDir+'music1.mp2')
     pygame.mixer.music.play(-1)
 
 def PlayInGameMusic():
